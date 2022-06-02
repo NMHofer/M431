@@ -13,7 +13,7 @@ Vorbereitend für das **M431** erstellen wir auf [Github](https://github.com/) e
   - Ein auf Github hinterlegter **SSH-PublicKey** des lokalen Benutzers/Rechner ist Voraussetzung <br>
   - Windows: [GitBash](https://git-scm.com/downloads) auf dem lokalen Host installiert <br>
   - Editor: z.B: [Visual Studio Code](https://code.visualstudio.com/) , [Atom](https://atom.io/) oder [Sublime Text](https://www.sublimetext.com/) etc... <br>
-  - Den Willen etwas neues zu lernen und so viel Spass haben wie möglich!!! :)
+  - Den Willen etwas neues zu **lernen** und so viel **Spass** haben wie möglich!!! :)
 
 Folgende Settings für das [Github](https://github.com/)-Repo sind vorgesehen
 
@@ -87,10 +87,10 @@ Alle Kommandos, wie sie in der richtigen Reihenfolge eingegeben werden:
 ![pushed alles in (origin) Repo](images/Git_push.PNG)
 
 #### Summary
-- Zuerst wurde das Git-Repo "M431" lokal und remote erstellt und verlinkt (Daten werden ab diesem Zeitpunkt ge"tracked" und können ge"pushed" oder ge"pulled" werden). 
+- Zuerst wurde das Git-Repo "M431" lokal und remote erstellt und verlinkt (Daten werden ab diesem Zeitpunkt ge**"tracked"** und können ge**"pushed"** oder ge"**pulled"** werden). 
 - Im lokalen Git-Repository wurde das File "README.md" erstellt und commited. Daten im Verzeichnis werden nun also **lokal** verwaltet und getrackt.
 - Abschliessend wurde mit dem "git push"-Kommando der aktuelle lokale Repo-Inhalt zum **"Origin"** (Github-Repo, Remote) übertragen.  
 
-Ab diesem Zeitpunkt sind wir bereit, um das Repository aktiv zu bewirtschaften - **IaC** (Infrastructure as Code) ready.
+**Ab diesem Zeitpunkt sind wir bereit, um das Repository aktiv zu bewirtschaften - **IaC** (Infrastructure as Code) ready.**
 
 ---
