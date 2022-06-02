@@ -25,4 +25,24 @@ Wenn man das hat geht man dort in das Verzeichnis rein -> Rechtsklick und auf **
 
 Zuerst wird das Git Repo initialisiert, damit wir überhaupt irgenetwas mit Git anfangen können.
 
-![Git Repo initialisieren](images/Git_init.PNG) <br><br>
+Hier habe ich noch verschiedene Vorgehensweisen wie man ein Repository erstellen kann:
+![Repository lokal einrichten](images/Github-Repo_lokal_erstellen.PNG) <br>
+
+Wir hatten noch kein existierendes Repository, somit haben wir eins von der Kommandozeile aus erstellt.
+- Tipp: Lernt auf der Kommandozeile zu arbiten, vor allem bei Git, es wird euch vieles erleichtern.
+
+Jetzt werde ich euch einige Snippets zeigen, wie wir unser Repository eingerichtet haben und Schritt für Schritt erklären was genau gemacht wird.
+
+![Repository initialisieren](images/Git_init.PNG) <br>
+
+![Status überprüfen](images/Git_status.PNG) <br>
+
+![Erstes File erstellen --> README](images/touch_README.PNG) <br>
+
+![Alle files für den Commit stagen](images/Git_add.PNG) <br>
+
+![Git commit](images/Git_commit.PNG) <br>
+
+![Ändern von Master auf Main](images/Git_branch.PNG) <br>
+
+![Zum remote Repo hinzufügen](images/Git_add_remote_Repo.PNG) <br>
