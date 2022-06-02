@@ -5,6 +5,8 @@
 
 Als erstes wird auf Github ein Repository erstellt. Danach bringen wir ein *vorhandenes, lokales Verzeichnis* unter **Git Versionskontrolle**, um diese beiden Repos anschliessend zu synchronisieren (verknüpfen). Ab dann können die lokalen Daten in das *remote Repository*  von [Github](https://github.com/) **"ge"pushed** - oder umgekehrt, die Daten von [Github](https://github.com/) in das lokale Repository **"ge"pulled** werden.
 
+---
+
 ### Remote Git Repository erstellen <br>
 
 Vorbereitend für das **M431** erstellen wir auf [Github](https://github.com/) ein neues, **leeres** Repository, mit welchem wir weiter unten das lokale Repo verknüpfen
@@ -23,6 +25,8 @@ Folgende Settings für das [Github](https://github.com/)-Repo sind vorgesehen
 > `Description  ` _Aufträge im eigenen Berufsumfeld selbstständig durchführen_ <br>
 > `Private:  ` _Repo auf "Private" setzen und später LP (weitere Contributors) einladen_<br>
 > `Initialize this repository with:  ` _NICHTS ankreuzen - erfolgt zu einem späteren Zeitpunkt_ <br>
+
+---
 
 ### Git Repository lokal anlegen/initialisieren
 
@@ -65,6 +69,8 @@ Dies geschieht mit folgenden Kommandos:
 > `$ git branch -M main   `_Ändert den branch von Master zu main_ <br>
 > `$ git push -u origin master   ` _Github-Passwort eingeben und hochladen_ <br>
 
+---
+
 Alle Kommandos, wie sie in der richtigen Reihenfolge eingegeben werden:
 
 `$ cd <Projektordner>` <br>
@@ -84,6 +90,8 @@ Alle Kommandos, wie sie in der richtigen Reihenfolge eingegeben werden:
 ![Ändern von Master auf Main](images/Git_branch.PNG) <br>
 `$ git push -u origin main` <br>
 ![pushed alles in (origin) Repo](images/Git_push.PNG)
+
+---
 
 #### Summary
 
