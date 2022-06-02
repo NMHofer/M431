@@ -20,7 +20,9 @@ Folgende Settings für das [Github](https://github.com/)-Repo sind vorgesehen
 
 ### Git Repository lokal anlegen/initialisieren
 
-Zu beginn sollte man sich einen Pfad bzw. geeigneten Ort aussuchen wo man sein .git Verzeichnis haben möchte.
+Zu beginn sollte man sich einen Pfad bzw. geeigneten Ort aussuchen wo man sein .git Verzeichnis haben möchte. <br>
 Wenn man das hat geht man dort in das Verzeichnis rein -> Rechtsklick und auf **Git Bash Here** und dann ist man start klar.
+
+Zuerst wird das Git Repo initialisiert, damit wir überhaupt irgenetwas mit Git anfangen können.
 
 ![Git Repo initialisieren](images/Git_init.PNG) <br><br>
