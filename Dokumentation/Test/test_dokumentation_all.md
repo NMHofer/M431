@@ -1,12 +1,15 @@
 ## Git Repository anlegen
 
+
 ### Starten mit einem neuen Git-Repository 
 
 Als erstes wird auf Github ein Repository erstellt. Danach bringen wir ein *vorhandenes, lokales Verzeichnis* unter **Git Versionskontrolle**, um diese beiden Repos anschliessend zu synchronisieren (verknüpfen). Ab dann können die lokalen Daten in das *remote Repository*  von [Github](https://github.com/) **"ge"pushed** - oder umgekehrt, die Daten von [Github](https://github.com/) in das lokale Repository **"ge"pulled** werden.
 
+
 ### Remote Git Repository erstellen
 
 Vorbereitend für das **M431** erstellen wir auf [Github](https://github.com/) ein neues, **leeres** Repository, mit welchem wir weiter unten das lokale Repo verknüpfen
+
 
 #### Voraussetzungen
   - [Github](https://github.com/) Account <br>
@@ -22,6 +25,7 @@ Folgende Settings für das [Github](https://github.com/)-Repo sind vorgesehen
 > `Private:  ` _Repo auf "Private" setzen und später LP (weitere Contributors) einladen_<br>
 > `Initialize this repository with:  ` _NICHTS ankreuzen - erfolgt zu einem späteren Zeitpunkt_ <br>
 
+
 ### Git Repository lokal anlegen/initialisieren
 
 Zu beginn sollte man sich einen Pfad bzw. geeigneten Ort aussuchen wo man sein .git Verzeichnis haben möchte. <br>
@@ -35,7 +39,7 @@ Hier habe ich noch verschiedene Vorgehensweisen wie man ein Repository erstellen
 Wir hatten noch kein existierendes Repository, somit haben wir eins von der Kommandozeile aus erstellt.
 - Tipp: Lernt auf der Kommandozeile zu arbiten, vor allem bei Git, es wird euch vieles erleichtern.
 
-Jetzt werde ich euch einige Snippets zeigen, wie wir unser Repository eingerichtet haben und Schritt für Schritt erklären was genau gemacht wird.
+Jetzt werde ich euch einige Snippets zeigen, wie wir unser Repository eingerichtet und Schritt für Schritt erklären was genau gemacht haben.
 
 
 #### Commands die wir verwenden müssen (lokal auf der Gitbash)
@@ -55,6 +59,7 @@ Mit den folgenden Kommandos wird ein erstes File (in unserem Fall das README.md)
 > `$ git add README.md` _Added nur die Files, die man angibt, in diesem Fall das README.md_ <br>
 > `$ git commit -m "First Commit"` _Files werden ab jetzt lokal getracked_ <br>
 > `$ git log` _Log Eintrag des eben ausgeführten Commits zeigen_ <br>
+
 
 #### Synchronisation des lokalen Repos mit dem Github-Repository (Origin)
 ...jetzt muss das lokale Repository mit dem Remote-Repository gesynched werden, damit das kollaborative Arbeiten daran ermöglicht werden kann. Im nächsten Schritt wird das lokale Repository mit dem Github-Repository einmalig "verlinkt". Danach kann das Repository jeweils **ge"pushed"**, **ge"pulled"**, **ge"klont"**, **ge"forked"** oder **ge"branched"** werden. <br>
@@ -85,6 +90,7 @@ Alle Kommandos, wie sie in der richtigen Reihenfolge eingegeben werden:
 ![Ändern von Master auf Main](images/Git_branch.PNG) <br>
 `$ git push -u origin main` <br>
 ![pushed alles in (origin) Repo](images/Git_push.PNG)
+
 
 #### Summary
 - Zuerst wurde das Git-Repo "M431" lokal und remote erstellt und verlinkt (Daten werden ab diesem Zeitpunkt ge**"tracked"** und können ge**"pushed"** oder ge"**pulled"** werden). 
