@@ -84,12 +84,12 @@ Alle Kommandos, wie sie in der richtigen Reihenfolge eingegeben werden:
 ![Alle files für den Commit stagen](images/Git_add.PNG) <br>
 `$ git commit -m "first commit"` <br>
 ![Git commit](images/Git_commit.PNG) <br>
-`$ git remote add origin https://github.com/<Benutzername>/M431.git` <br>
-![Zum remote Repo hinzufügen](images/Git_add_remote_Repo.PNG) <br>
 `$ git branch -M main` <br>
 ![Ändern von Master auf Main](images/Git_branch.PNG) <br>
+`$ git remote add origin https://github.com/<Benutzername>/M431.git` <br>
+![Zum remote Repo hinzufügen](images/Git_add_remote_Repo.PNG) <br>
 `$ git push -u origin main` <br>
-![pushed alles in (origin) Repo](images/Git_push.PNG)
+![pushed alles in (origin) Repo](images/Git_push.PNG) <br>
 
 ---
 
