@@ -22,7 +22,7 @@ Vorbereitend für das **M431** erstellen wir auf [Github](https://github.com/) e
 Folgende Settings für das [Github](https://github.com/)-Repo sind vorgesehen
 
 > `Repository name:  ` _M431_<br>
-> `Description  ` _Aufträge im eigenen Berufsumfeld selbstständig durchführen_ <br>
+> `Description:  ` _Aufträge im eigenen Berufsumfeld selbstständig durchführen_ <br>
 > `Private:  ` _Repo auf "Private" setzen und später LP (weitere Contributors) einladen_<br>
 > `Initialize this repository with:  ` _NICHTS ankreuzen - erfolgt zu einem späteren Zeitpunkt_ <br>
 
@@ -41,7 +41,7 @@ Hier habe ich noch verschiedene Vorgehensweisen wie man ein Repository erstellen
 Wir hatten noch kein existierendes Repository, somit haben wir eins von der Kommandozeile aus erstellt.
 - **Tipp**: Lernt auf der Kommandozeile zu arbiten, vor allem bei Git, es wird euch vieles erleichtern.
 
-Jetzt werde ich euch einige Snippets zeigen, wie wir unser Repository eingerichtet und Schritt für Schritt erklären was genau gemacht haben.
+Jetzt werde ich euch einige Befehle zeigen, wie wir unser Repository eingerichtet und Schritt für Schritt erklären was genau gemacht wurde.
 
 #### Commands die wir verwenden müssen (lokal auf der Gitbash)
 
