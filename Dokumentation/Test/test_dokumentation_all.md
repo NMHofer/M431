@@ -39,7 +39,7 @@ Hier habe ich noch verschiedene Vorgehensweisen wie man ein Repository erstellen
 ![Repository lokal einrichten](images/Github-Repo_lokal_erstellen.PNG) <br>
 
 Wir hatten noch kein existierendes Repository, somit haben wir eins von der Kommandozeile aus erstellt.
-- Tipp: Lernt auf der Kommandozeile zu arbiten, vor allem bei Git, es wird euch vieles erleichtern.
+- **Tipp**: Lernt auf der Kommandozeile zu arbiten, vor allem bei Git, es wird euch vieles erleichtern.
 
 Jetzt werde ich euch einige Snippets zeigen, wie wir unser Repository eingerichtet und Schritt für Schritt erklären was genau gemacht haben.
 
@@ -95,7 +95,7 @@ Alle Kommandos, wie sie in der richtigen Reihenfolge eingegeben werden:
 
 #### Summary
 
-- Zuerst wurde das Git-Repo "M431" lokal und remote erstellt und verlinkt (Daten werden ab diesem Zeitpunkt ge**"tracked"** und können ge**"pushed"** oder ge"**pulled"** werden). 
+- Zuerst wurde das Git-Repo "M431" lokal und remote erstellt und verlinkt (Daten werden ab diesem Zeitpunkt ge"**tracked**" und können ge"**pushed**" oder ge"**pulled**" werden). 
 - Im lokalen Git-Repository wurde das File "README.md" erstellt und commited. Daten im Verzeichnis werden nun also **lokal** verwaltet und getrackt.
 - Abschliessend wurde mit dem "git push"-Kommando der aktuelle lokale Repo-Inhalt zum **"Origin"** (Github-Repo, Remote) übertragen.  
 
