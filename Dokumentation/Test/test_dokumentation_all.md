@@ -1,4 +1,4 @@
-## Git Repository anlegen
+# Git Repository anlegen
 
 
 ### Starten mit einem neuen Git-Repository
