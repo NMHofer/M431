@@ -1,4 +1,4 @@
-## Git Repository anlegen
+# Git Repository anlegen
 
 
 ### Starten mit einem neuen Git-Repository
@@ -78,6 +78,10 @@ Alle Kommandos, wie sie in der richtigen Reihenfolge eingegeben werden:
 ![Repository initialisieren](images/Git_init.PNG) <br>
 `$ git status` <br>
 ![Status überprüfen](images/Git_status.PNG) <br>
+`$ git status` _Wenn nach dem commit etwas verändert, hinzugefügt oder gelöscht wurde_ <br>
+![Status überprüfen](images/status_before_commit.PNG) <br>
+`$ git status` _Sobald alle Files wieder in der Staging Area sind_ <br>
+![Status überprüfen](images/status_after_add.PNG) <br>
 `$ touch README.md` <br>
 ![Erstes File erstellen --> README](images/touch_README.PNG) <br>
 `$ git add README.md` <br>
