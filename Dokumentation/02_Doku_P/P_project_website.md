@@ -22,6 +22,11 @@ Damit wollen wir den Überblick behalten können wie weit wir sind und wie lange
 Mit dem Zeitplan haben wir jederzeit eine Übersicht was noch erledigt werden muss, falls wir mal sehen sollten das der Zeitplan nicht aufgeht können wir es mit Nacharbeiten oder einfach zu Hause kompensieren.<br>
 Hier sieht man noch unseren Zeitplan:<br><br>
 
+![Zeitplan_Legende](images/Legende_Zeitplan_IPERKA.PNG)
+
+![Zeitplan](images/Zeitplan_IPERKA.PNG)
+
+
 ---
 
 ## Webseite Aufbau
@@ -31,5 +36,7 @@ Es sollte eine Startseite geben mit drei verlinkten E-Portfolios. Bei den E-Port
 Zuerst waren wir uns nicht einig gewesen, vor allem bei den E-Portfolios, aber wir haben uns hingesetzt und mit einigen Diskussionen zu einer gemeinsamen Lösung gefunden.<br>
 Bei der Startseite hingegen haben wir von Anfang an eine Skizze gemacht wie sie genau aussehen sollte.<br>
 Hier sieht man die Skizze:<br><br>
+
+![Startseite_Skizze](images/Sartseite_Skizze.png)
 
 ---
