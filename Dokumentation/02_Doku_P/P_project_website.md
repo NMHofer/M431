@@ -1,9 +1,9 @@
-# Plannen
+# Planen
 
 ## Meilensteinziele
-Bei der Plannung unseres Projektes haben wir uns sieben Meilensteinziele gesetzt die wir auch versuchen so gut wie möglich einzuhalten.<br>
+Bei der Planung unseres Projektes haben wir uns sieben Meilensteinziele gesetzt die wir auch versuchen so gut wie möglich einzuhalten.<br>
 Wir haben uns vorgenommen wenn wir diese nicht erreichen es zu Hause nachzuhohlen, damit wir am Ende des Projektes keinen Stress haben.<br>
-Hier sieht man unsere sieben Meilensteinziele die wir uns vorgenommen haben:<br><br>
+_Hier sieht man unsere sieben **Meilensteinziele** die wir uns vorgenommen haben:_<br><br>
 
 1. Projektantrag abgeben und mit der Informationsbeschaffung beginnen.
 2. Planung abschliessen und zugleich auch noch die Entscheidung treffen.
@@ -20,7 +20,7 @@ Hier sieht man unsere sieben Meilensteinziele die wir uns vorgenommen haben:<br>
 Wir haben auch einen Zeitplan nach dem IPERKA-System erstellt.
 Damit wollen wir den Überblick behalten können wie weit wir sind und wie lange wir noch Zeit für die eizelnen Schritte bzw. Aufträge haben.<br>
 Mit dem Zeitplan haben wir jederzeit eine Übersicht was noch erledigt werden muss, falls wir mal sehen sollten das der Zeitplan nicht aufgeht können wir es mit Nacharbeiten oder einfach zu Hause kompensieren.<br>
-Hier sieht man noch unseren Zeitplan:<br><br>
+_Hier sieht man noch unseren **Zeitplan**:_<br><br>
 
 ![Zeitplan_Legende](images/Legende_Zeitplan_IPERKA.PNG)
 
@@ -35,7 +35,7 @@ Für unsere Webseite brauchten wir eine Idee wie wir anfangen wollten. Was genau
 Es sollte eine Startseite geben mit drei verlinkten E-Portfolios. Bei den E-Portfolios kann jeder selbst entscheiden was der Inhalt sein sollte und man kann seiner Kreativität freien Lauf lassen.<br>
 Zuerst waren wir uns nicht einig gewesen, vor allem bei den E-Portfolios, aber wir haben uns hingesetzt und mit einigen Diskussionen zu einer gemeinsamen Lösung gefunden.<br>
 Bei der Startseite hingegen haben wir von Anfang an eine Skizze gemacht wie sie genau aussehen sollte.<br>
-Hier sieht man die Skizze:<br><br>
+_Hier sieht man die **Skizze**:_<br><br>
 
 ![Startseite_Skizze](images/Sartseite_Skizze.png)
 
