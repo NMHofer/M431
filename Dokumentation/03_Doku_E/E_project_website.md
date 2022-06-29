@@ -8,3 +8,7 @@ Noah und Thaju wollten eine Webseite machen was genau der Inhalt sein sollte wus
 
 ## Was sollte der Inhalt der Webeite sein?
 Beim Entscheiden des Inhaltes der Webseite war es für uns sehr leicht, denn wir hatten kaum verschiedene Vorstellungen der Startseite und bei den  e-Portfolios kann sich jeder frei entscheiden was der Inhalt sein sollte. Unsere Skizze für die Startseite haben wir zusammen gemacht also gab es schlussendlich auch nur eine Lösung und wir mussten uns nicht entscheiden.
+
+---
+
+(Nutzwerkanalyse[images/Nutzwertanalyse.PNG]
