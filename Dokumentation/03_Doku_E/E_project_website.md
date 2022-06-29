@@ -11,4 +11,4 @@ Beim Entscheiden des Inhaltes der Webseite war es für uns sehr leicht, denn wir
 
 ---
 
-(Nutzwerkanalyse[images/Nutzwertanalyse.PNG]
+(Nutzwerkanalyse)[images/Nutzwertanalyse.PNG]
