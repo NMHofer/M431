@@ -1,7 +1,7 @@
 # Planen
 
 ## Meilensteinziele
-Bei der Planung unseres Projektes ist uns klar geworden, dass wir nicht nur einfach ein Projekt machen wollen, sondern Ziele haben und diese verwirklichen möchten.
+Bei der Planung unseres Projektes ist uns klar geworden, dass wir nicht nur einfach ein Projekt machen wollen, sondern Ziele haben und diese verwirklichen möchten.<br>
 Somit haben wir uns sieben Meilensteinziele gesetzt die wir natürlich auch mit aller Kraft und Ehrgeiz versuchen zu erreichen.<br>
 Wir haben uns vorgenommen wenn wir diese nicht erreichen es zu Hause irgendwie nachzuhohlen, damit wir zum einten keinen Stress am Ende des Projekts haben und zum anderen, dass wir auch zufrieden mit uns und unserem Projekt sein werden.<br>
 _Hier sieht man unsere sieben **Meilensteinziele** die wir uns gesetzt haben:_<br><br>
