@@ -26,5 +26,6 @@ Die Skizze für die Startseite haben wir zusammen realisiert, somit gab es schlu
 ---
 
 ## Nutzwertanalyse
-![Nutzwertanalyse](images/Nutzwertanalyse.PNG)
-Mit der Nutzwerkanalyse konnten wir von anfang an gut für ein Projekt entscheiden bzw. waren uns sicher was wir in dieser Zeit angehen.
+Dies ist ein sogenannte Nutzwertanalyse und wir hatten als Vorgabe uns zu entscheiden, anhand einer solchen Analyse.<br>
+![Nutzwertanalyse](images/Nutzwertanalyse.PNG)<br>
+Durch die Nutzwerkanalyse konnten wir uns von anfang an gut für ein Projekt entscheiden bzw. waren uns sicher was wir in dieser Zeit angehen.
