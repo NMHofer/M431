@@ -16,6 +16,12 @@ Wir sind alle sehr zufrieden mit unserem Projekt wir haben viele unsere Ziele er
 
 **Fazit Noah:**
 
+---
+mamsmsmsmsm
 **Fazit Marco:**
 
+---
+
 **Fazit Thajuran:**
+
+---
