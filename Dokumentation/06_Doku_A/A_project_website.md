@@ -18,15 +18,16 @@ Natürlich haben wir alles fertiggekriegt, aber es wurde nochmals auf den letzte
 
 ---
 
-**Gemeinsames Fazit / Rückblick:**
+**Gemeinsames Fazit / Rückblick:**<br>
 Wir sind alle sehr zufrieden mit unserem Projekt wir haben viele unsere Ziele erreicht.<br>
 Unsere Portfolios sind noch etwas ausbaufähig aber das war auch nicht unser Ziel dass die perfekt sein sollten.<br>
 Unser Ziel war es diese immer wieder selbständig aktualisieren zu können und es aktuell zu halten.<br>
 Wir sind regelmässig nach vorngekommen und haben unsere Fortschritte präsentiert.<br>
 Mit mit dem Plannen hat auch alles sehr gut funktioniert. Wir alle finden, dass es ein gut gelungenes Projekt geworden ist und wir alle mit unserem Endergebnis zufrieden sind.
 
+---
 
-**Fazit Noah:**
+**Fazit Noah:**<br>
 Für mich war es das erste Mal, dass ich ein Projekt leiten bzw. selbst umsetzen durfte.<br>
 Es war ein riesen grosse Erfahrung und bin überzeugt, dass ich extrem viel lernen konnte.<br>
 Ich habe viel aufgefasst und wiederverarbeitet, was ich schon bisschen kannte und gehört habe.<br>
@@ -35,10 +36,10 @@ Ich bin sehr zufrieden und danke hiermit meinen Kollegen **Marco** und **Thajura
 
 ---
 
-**Fazit Marco:**
+**Fazit Marco:**<br>
 
 ---
 
-**Fazit Thajuran:**
+**Fazit Thajuran:**<br>
 
 ---
