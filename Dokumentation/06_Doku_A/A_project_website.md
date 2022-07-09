@@ -14,7 +14,7 @@ Da wir zu dritt waren, konnten wir unsere Aufgaben schön und fair untereinander
 Gegen Ende des Projekts verging die Zeit immer schneller und plötzlich wude es ein kleiner Wettlauf gegen die Zeit.<br>
 Natürlich haben wir alles fertiggekriegt, aber es wurde nochmals auf den letzten Drücker richtig vollgas gegeben<br>
 
-  *Wir sind überzeugt, dass wir auf unser Projekt sowie unsere Leistungen zufrieden sein können.*
+ - *Wir sind überzeugt, dass wir auf unser Projekt sowie unsere Leistungen zufrieden sein können.*
 
 ---
 
