@@ -14,7 +14,9 @@ Da wir zu dritt waren, konnten wir unsere Aufgaben schön und fair untereinander
 Gegen Ende des Projekts verging die Zeit immer schneller und plötzlich wude es ein kleiner Wettlauf gegen die Zeit.<br>
 Natürlich haben wir alles fertiggekriegt, aber es wurde nochmals auf den letzten Drücker richtig vollgas gegeben<br>
 
-*Wir sind überzeugt, dass wir auf unser Projekt sowie unsere Leistungen zufrieden sein können.*
+  *Wir sind überzeugt, dass wir auf unser Projekt sowie unsere Leistungen zufrieden sein können.*
+
+---
 
 **Gemeinsames Fazit / Rückblick:**
 Wir sind alle sehr zufrieden mit unserem Projekt wir haben viele unsere Ziele erreicht.<br>
@@ -30,6 +32,7 @@ Es war ein riesen grosse Erfahrung und bin überzeugt, dass ich extrem viel lern
 Ich habe viel aufgefasst und wiederverarbeitet, was ich schon bisschen kannte und gehört habe.<br>
 Natürlich lief nicht alles wie am Schnürrchen, trotzdem konnte ich fast nur positives daraus mitnehmen.<br>
 Ich bin sehr zufrieden und danke hiermit meinen Kollegen **Marco** und **Thajuran** für die tolle Unterstützung und mitarbeit an unserem Projekt.
+
 ---
 
 **Fazit Marco:**
