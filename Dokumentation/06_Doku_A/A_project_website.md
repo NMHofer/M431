@@ -1,5 +1,5 @@
 # Auswerten
-Anfangs war es nicht wirklich leicht gewesen, da man schon fast sagen kann, das wir ins Eiskalte Wasser geworfen worden sind.<br>
+Anfangs war es nicht wirklich leicht gewesen, da man schon sagen kann, dass wir ins Eiskalte Wasser geworfen worden sind.<br>
 Wir hatten damals schon gesagt, dass wir zusammen dieses Projekt angehen und gemeinsam abschliessen möchten.<br>
 Es war auf jeden Fall nicht einfach ein Projekt zu finden, dass allen drei gefällt und Spass macht.<br>
 Nach geraumer Zeit, kamen wir auf die Ideee ein Website mit je drei individuellen E-Portfolios zu gestallten.<br>
