@@ -32,11 +32,13 @@ Für mich war es das erste Mal, dass ich ein Projekt leiten bzw. selbst umsetzen
 Es war ein riesen grosse Erfahrung und bin überzeugt, dass ich extrem viel lernen konnte.<br>
 Ich habe viel aufgefasst und wiederverarbeitet, was ich schon bisschen kannte und gehört habe.<br>
 Natürlich lief nicht alles wie am Schnürrchen, trotzdem konnte ich fast nur positives daraus mitnehmen.<br>
-Ich bin sehr zufrieden und danke hiermit meinen Kollegen **Marco** und **Thajuran** für die tolle Unterstützung und mitarbeit an unserem Projekt.
+Ich bin sehr zufrieden und danke hiermit meinen Kollegen **Marco** und **Thajuran** für die tolle Unterstützung und Mitarbeit an unserem Projekt.
 
 ---
 
 **Fazit Marco:**<br>
+
+Ich habe sehr viel aus diesem Projetk mitgenommen, denn ich konnte das erstemal mit Thajuran und Noah zusammen ein eigenes Projekt plannen und umsetzen. Natürlich ging es nicht immer so vorran wie wir es uns vorgestellt haben, dies hat uns aber gelehrt das sowas einrechenen muss. Wir haben es jetzt einfach mit Hausaufgaben kompensiert. Es hat mir Spass gemacht an diesem Projekt zu arbeiten. Manchmal gibt es aber auch Arbeiten die man nicht gerne erledigt. Ich bin froh das unser Projekt uns gut gelungen ist. Ich danke Noah und Thaju für die tolle Zusammenarbeit.
 
 ---
 
