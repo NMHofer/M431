@@ -43,6 +43,8 @@ Ich habe sehr viel aus diesem Projetk mitgenommen, denn ich konnte das erstemal 
 ---
 
 **Fazit Thajuran:**<br>
-Das ganze Projekt hat mir sehr viel Spass gemacht und konnte sehr viel dazulernen, von der Planung zu der Umsetzung mithilfe der Projektmanagement-Methode IPERKA. Das war für mich das erste Mal in der TBZ ein eigenes Projekt zu umsetzen und mit meinen Kollegen Noah und Marco zusammen zu arbeiten. Sowie auch konnte ich meine HTML&CSS Kenntnisse erweitern und hatte auch währendem HTML&CSS coden viel Spass. Natürlich hatte ich bei der Erstellung der Webseite viele Stolpersteine, die mit viel Geduld beseitigt worden sind. Final kann ich sagen, wir haben das ganze Projekt sehr gut geplant und unser finales Produkt erfolgreich abgeschlossen wie wir es erhofft haben!
+Das ganze Projekt hat mir sehr viel Spass gemacht und konnte sehr viel dazulernen, von der Planung zu der Umsetzung mithilfe der Projektmanagement-Methode IPERKA. Das war für mich das erste Mal in der TBZ ein eigenes Projekt zu umsetzen und mit meinen Kollegen Noah und Marco zusammen zu arbeiten. Sowie auch konnte ich meine HTML&CSS Kenntnisse erweitern und hatte auch währendem HTML&CSS coden viel Spass. Natürlich hatte ich bei der Erstellung der Webseite viele Stolpersteine, die mit viel Geduld beseitigt worden sind. Ausserdem eine gemeinsame Webseite mit den individuellen E-Portfolio ist eine super Idee, da wir alle die E-Portfolios sicher auch später für unsere persönliche Website nutzen können.
+Final kann ich sagen, wir haben das ganze Projekt sehr gut geplant und unser finales Produkt erfolgreich abgeschlossen, wie wir es erhofft haben!
+An Marco und Noah danke ich für die super Zusammenarbeit.
 
 ---
